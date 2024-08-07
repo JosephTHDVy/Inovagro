@@ -37,6 +37,11 @@ body {
   text-align: center;
 }
 
+.abertura {
+  text-align:center;
+  paddin-up: 15px;
+}
+
 p {
   text-align: justify;
 }
