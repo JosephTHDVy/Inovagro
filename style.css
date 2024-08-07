@@ -39,7 +39,8 @@ body {
 
 .abertura {
   text-align:center;
-  paddin-up: 15px;
+  padding-top: 15px;
+  color: aqua;
 }
 
 p {
